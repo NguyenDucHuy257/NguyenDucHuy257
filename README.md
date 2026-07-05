@@ -157,22 +157,6 @@ Optimize
 
 ---
 
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NguyenDucHuy257&show_icons=true&hide_border=true&theme=synthwave&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDucHuy257&layout=compact&hide_border=true&theme=synthwave&langs_count=8"/>
-
-<br>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenDucHuy257&bg_color=0D1117&color=FF4ECD&line=7F00FF&point=00C9FF&area=true&area_color=7F00FF&hide_border=true&custom_title=CODE%20%2F%20DATA%20ACTIVITY"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2900&pause=900&color=00C9FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=collect+the+data.;understand+the+pattern.;automate+the+workflow.;build+the+system." alt="Animated footer"/>
