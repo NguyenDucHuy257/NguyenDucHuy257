@@ -145,54 +145,6 @@ Optimize
 
 ---
 
-## SELECTED WORK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Multimodal Video Retrieval
-
-`CLIP` `SigLIP` `FAISS`
-
-KIS · AVS · VQA · KISC
-
-</td>
-<td width="50%" valign="top">
-
-### ML IDS / IPS
-
-`CICIDS2017` `Random Forest`
-
-Traffic classification and real-time response flow.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### OCR Recognition
-
-`CRNN` `ONNX` `OpenCV`
-
-Captcha recognition and model inference experiments.
-
-</td>
-<td width="50%" valign="top">
-
-### Backend Systems
-
-`FastAPI` `PostgreSQL`
-
-Authentication, inventory, payments and service deployment.
-
-</td>
-</tr>
-</table>
-
----
-
 ## CURRENT INTERESTS
 
 <div align="center">
